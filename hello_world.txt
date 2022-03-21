@@ -1,1 +1,1 @@
-test text for git commits
+test text for git commits.
